@@ -1,0 +1,8 @@
+{"id": "q1", "query": "Kafka consumer offset commits", "relevant_sources": ["kafka.md"]}
+{"id": "q2", "query": "BM25 lexical search", "relevant_sources": ["retrieval.md"]}
+{"id": "q3", "query": "PostgreSQL connection pool", "relevant_sources": ["database.md"]}
+{"id": "q4", "query": "overlapping line windows", "relevant_sources": ["chunking.md"]}
+{"id": "q5", "query": "private keys environment files", "relevant_sources": ["security.md"]}
+{"id": "q6", "query": "HTTP 422 request models", "relevant_sources": ["api.md"]}
+{"id": "q7", "query": "source path start line end line", "relevant_sources": ["chunking.md"]}
+{"id": "q8", "query": "persist events replay idempotent", "relevant_sources": ["kafka.md"]}
