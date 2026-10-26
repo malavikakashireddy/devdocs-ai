@@ -1,10 +1,12 @@
-# Python
+.env
+.env.*
+!.env.example
+.venv/
 __pycache__/
 *.py[cod]
-.venv/
-
-# Environment variables
-.env
-
-# macOS
-.DS_Store
+.data/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+evaluation/results/
