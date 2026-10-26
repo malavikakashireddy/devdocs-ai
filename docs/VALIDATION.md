@@ -13,7 +13,7 @@ All results below refer to the prepared review branch, not to the original main 
 | Corpus SHA-256 | `957c370a7664dd78722e4ab400d90890d4a2af17520fb56a6ae2530b847bc203` |
 | qrels SHA-256 | `05557622ff8145d63780fa0b90a6b7b1420d7b8609580ec9bc70add68a7ea1c2` |
 | Docker image/Compose | Prepared; **not run** (no Docker runtime) |
-| Remote GitHub Actions | Workflow prepared; execution must be checked on the PR |
+| Remote GitHub Actions | [Passed: run 40399960644](https://github.com/malavikakashireddy/devdocs-ai/actions/runs/40399960644) |
 | Embeddings/vector search/RAG/frontend | **Not implemented** |
 | 1,000 files / 5,000 chunks / 250 queries / 85% Recall@5 | **Not verified** |
 
